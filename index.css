@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(230, 6, 165);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Arial', sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+p {
+    color: green;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Arial', sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+a {
+    color: green;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Arial', sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+img {
+    color: green;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Arial', sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}
